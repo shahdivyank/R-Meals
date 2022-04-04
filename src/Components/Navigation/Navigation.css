@@ -1,0 +1,35 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap'); */
+
+
+.nav-wrapper {
+background: #023E8A;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+height: 15vh;
+}
+
+.navitem {
+    font-size: 2em;
+    font-family: 'Open Sans', sans-serif;
+    font-family: "Georgia";
+    text-decoration: none;
+    color: white;
+    margin: 0 10px;
+}
+
+.navitem:hover {
+    cursor: pointer;
+    color: lightgray;
+}
+
+.logo {
+    height: 50px;
+}
+
+.navbar-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}

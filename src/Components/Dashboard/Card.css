@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+.food-card {
+    margin: 5px;
+    /* border: 2px solid black; */
+    padding: 5px;
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px rgba(0,0,0, .5);
+}
+
+.food-card:hover {
+    cursor: pointer;
+}
+
+.plus {
+    font-size: .75em;
+}
+
+.minus {
+    font-size: .75em;
+}

@@ -1,0 +1,14 @@
+.about-us{
+    display: flex;
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.about-wrapper {
+    height: 85vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
